@@ -1,0 +1,13 @@
+node_modules/**
+package-lock.json
+.git
+database/
+seeders/
+models/
+migrations/
+.github/
+.husky/
+bin/
+dist/
+*.test.js
+*.spec.js
