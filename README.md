@@ -2,7 +2,7 @@
 
 
 ## Specs
-- MVC folder (Model > Route > Controller > Service)
+- MVC pattern (Model > Route > Controller > Service)
 - Classic NodeJS Dependences: Sequelize / Express / Cors / DotENV / HTTPERRORS
 - esLint (airbnb config)
 - Windows / Unix process platform rules
