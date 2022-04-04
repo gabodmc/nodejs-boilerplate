@@ -9,7 +9,7 @@ require('dotenv').config()
 const indexRouter = require('./routes/index')
 const usersRouter = require('./routes/users')
 
-const port = process.env.BACKENDPORT || 3001
+const port = process.env.PORT || 3000
 
 const app = express()
 app.use(cors())
