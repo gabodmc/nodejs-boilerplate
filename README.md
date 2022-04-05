@@ -12,11 +12,11 @@
 
 ## How to:
 ### Generate new model example:
-sequelize model:generate --name Usuario --attributes name:string,surename:string,date:date,mail:string
+sequelize model:generate --name User --attributes name:string,surename:string,date:date,mail:string
 ### Create a new db schema:
-sequelize db:create (crea una db con el nombre asignado en el .env)
+sequelize db:create
 ### Migrate models and asociations:
-sequelize db:migrate (migra las tablas creadas en sequelize a la db)
+sequelize db:migrate
 ### Drop the db schema:
 sequelize db:drop 
 
