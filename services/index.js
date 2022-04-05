@@ -1,2 +1,2 @@
 // example of a service
-exports.getIndex = async () => 'example'
+exports.getIndex = async () => 'Hello Index'
