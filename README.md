@@ -21,7 +21,7 @@ sequelize db:migrate
 ### Drop the db schema:
 sequelize db:drop 
 
-## 🚩Recomendations:
+## 🚩Recommendations:
 Change the branches on the yaml file
 
 ![image](https://user-images.githubusercontent.com/79473217/173420432-9ce18dfc-7191-4268-8271-47a0277f3797.png)
