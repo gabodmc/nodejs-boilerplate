@@ -42,6 +42,7 @@ app.use((err, req, res) => {
 })
 
 app.listen(port, () => {
+  // eslint-disable-next-line no-console
   console.log(`Servidor funcionando en el puerto ${port}`)
 })
 
