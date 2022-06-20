@@ -1,6 +1,5 @@
 # 🏔️ Aconcagua Project - Node Boilerplate
-Earn time with this scalable an easy to config boilerplate. 
-
+Earn time with this powerful, scalable and easy to config boilerplate. 
 
 ## 💾 Specs
 - Node v14.x
