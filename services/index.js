@@ -4,7 +4,7 @@ const { ErrorObject } = require('../helpers/error')
 exports.getIndex = async () => {
   try {
     const getIndex = await 'Hello World'
-    if (!getIndex) {
+    if (getIndex) {
       throw new ErrorObject('No index found', 404)
     }
     return getIndex

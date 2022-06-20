@@ -8,6 +8,7 @@ const endpointResponse = ({
 }) => {
   res.status(code).json({
     status,
+    code,
     message,
     body,
     options,

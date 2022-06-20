@@ -1,13 +1,15 @@
-# NodeJS-Express Boilerplate
+# 🏔️ Aconcagua Project - Node Boilerplate
+Earn time with this scalable an easy to config boilerplate. 
 
 
 ## 💾 Specs
-- MVC pattern (Model > Route > Controller > Service)
+- Node v14.x
+- MVCS pattern (Model > Route > Controller > Service)
 - Classic NodeJS Dependences: Sequelize / Express / Cors / DotENV / HTTPERRORS
 - esLint (airbnb config)
 - Windows / Unix process platform rules
 - Husky / Mocha
-- EJS to show index/errors
+- Helpers: Success, Errors & Async Handler
 - Github action to prevent "bypass errors"
 
 
