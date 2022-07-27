@@ -1,6 +1,11 @@
 # 🏔️ Aconcagua - Node Boilerplate
 Earn time with this powerful, scalable and easy to config boilerplate. 
 
+## Install
+```bash
+npx create-aconcagua-app <projectname> 
+```
+
 ## 💾 Specs
 - Node v14.x
 - MVCS pattern (Model > Route > Controller > Service)
