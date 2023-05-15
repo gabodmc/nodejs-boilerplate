@@ -4,6 +4,7 @@ const { getOk, getBad } = require('../controllers/index')
 const router = express.Router()
 
 // example of a route with index controller get function
+router.get('/', getOk)
 router.get('/success', getOk)
 router.get('/error', getBad)
 

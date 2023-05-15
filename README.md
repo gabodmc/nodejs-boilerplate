@@ -16,6 +16,17 @@ npx create-aconcagua-app <projectname>
 - Helpers: Success, Errors & Async Handler
 - Github action to prevent "bypass errors"
 
+## ↪ Routes
+
+### Route with a successful response:
+```bash
+{environment}/success
+```
+### Route with an error:
+```bash
+{environment}/error
+```
+
 
 ## 💡 If you choose Sequelize as ORM, you can follow 
 ### Generate new model example:
