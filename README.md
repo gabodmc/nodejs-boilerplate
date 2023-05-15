@@ -26,7 +26,6 @@ npx create-aconcagua-app <projectname>
 {environment}/error
 ```
 
-
 ## 💡 If you choose Sequelize as ORM, you can follow 
 ### Generate new model example:
 sequelize model:generate --name User --attributes name:string,surename:string,date:date,mail:string
