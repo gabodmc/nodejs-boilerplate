@@ -17,7 +17,6 @@ npx create-aconcagua-app <projectname>
 - Github action to prevent "bypass errors"
 
 ## ↪ Routes
-
 ### Route with a successful response:
 ```bash
 {environment}/success
